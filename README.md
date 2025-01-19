@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @CelestiaCeli
-- 👀 I’m interested in: gaming art and programming
-- 🌱 I’m currently learning: art and programming
-- 💞️ I’m looking to collaborate on: pro
-- 📫 How to reach me: discord
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: no fun fact ;n;
+Hello! My name is Celeste!
 
-<!---
-CelestiaCeli/CelestiaCeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My main creative hobbies are programming and art. I'm a 20 year old gal.
+I'm most familiar with c++ and have an intense interest with computers.
+
+I can be reached on my discord kicokacokatokati
